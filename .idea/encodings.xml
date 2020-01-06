@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Second/src/internet/Example13_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Second/src/例子3/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Second/src/例子3/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Third/src/例子7/客户端/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Third/src/例子7/服务器端/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Third/src/例子7/服务器端/Target.java" charset="GBK" />
+  </component>
+</project>
